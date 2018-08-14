@@ -7,7 +7,6 @@ Hey，我是石华，出没于[博客](http://www.stormstone.xin)、[微博](htt
 
 一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/stormstone)。 
 
-简历：[石华的简历](http://www.stormstone.xin/%E7%9F%B3%E5%8D%8E%E7%9A%84%E7%AE%80%E5%8E%86.pdf)
 
 特性：
 >年龄：岁月如歌；

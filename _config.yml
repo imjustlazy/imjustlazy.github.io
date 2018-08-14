@@ -108,11 +108,8 @@ friends: [
 # My more Somthing 
 stormmore: [
     {
-        title: "My Old Blog",
+        title: "Shihua's Old Blog",
         href: "http://www.stormstone8.cn/home.do"
-    },{
-        title: "石华的简历",
-        href: "/石华的简历.pdf"
     },{
         title: "Listen Music",
         href: "/CassettePlayer/index.html"
