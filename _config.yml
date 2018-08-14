@@ -1,0 +1,122 @@
+# Site settings
+title: SiFa Blog
+SEOTitle: 石头人m的博客 | SiFa Blog
+header-img: img/home-bg.jpg
+email: stormstone8@qq.com
+description: "关于物联网与大数据、黑客与画家 | 石华，IOT & BigData Lover，Back-end engineer | 这里是 @SiFa石华 的个人博客，与你一起发现更大的世界。"
+keyword: "石华, SiFa, 石头人m, StormStone, 石华的博客, 石头人m的个人网站, Storm Blog, 博客, 个人网站, 互联网, 前端, 设计, Java, Android"
+url: "https://www.stormstone.xin"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+
+
+# SNS settings
+RSS: false
+weibo_username:     70269stone
+zhihu_username:     stormstone8
+github_username:    stormstone
+twitter_username:   stormstone8
+# facebook_username:  huxpro
+# linkedin_username:  firstname-lastname-idxxxx
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# Disqus settings
+disqus_username: stormstone8
+
+# Netease setttings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics 
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-103228337-1'            # Format: UA-xxxxxx-xx
+ga_domain: www.stormstone.xin
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "写写代码，玩玩耍耍 <br> I'm not okay,but it's okay! "
+sidebar-avatar: /img/avatar-storm.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "Hux",
+        href: "http://huangxuan.me/"
+    },{
+        title: "KongWiKi",
+        href: "http://www.kongwiki.online/"
+    },{
+        title: "瓜地",
+        href: "http://www.desgard.com/"
+    },{
+        title: "Phodal",
+        href: "https://www.phodal.com/"
+    },{
+        title: "swpuleo",
+        href: "https://swpuleo.github.io/"
+    }
+]
+
+# 自己的新的设置
+# My more Somthing 
+stormmore: [
+    {
+        title: "My Old Blog",
+        href: "http://www.stormstone8.cn/home.do"
+    },{
+        title: "石华的简历",
+        href: "/石华的简历.pdf"
+    },{
+        title: "Listen Music",
+        href: "/CassettePlayer/index.html"
+    }
+]
+# 背景音乐-power
+powermusic: true
