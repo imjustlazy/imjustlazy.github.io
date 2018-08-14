@@ -1,8 +1,8 @@
 # Site settings
-title: SiFa Blog
-SEOTitle: 石头人m的博客 | SiFa Blog
+title: I'm just lazy
+SEOTitle: 就是懒 | Lazy Blog
 header-img: img/home-bg.jpg
-email: stormstone8@qq.com
+email: imjustlazy@qq.com
 description: "关于物联网与大数据、黑客与画家 | 石华，IOT & BigData Lover，Back-end engineer | 这里是 @SiFa石华 的个人博客，与你一起发现更大的世界。"
 keyword: "石华, SiFa, 石头人m, StormStone, 石华的博客, 石头人m的个人网站, Storm Blog, 博客, 个人网站, 互联网, 前端, 设计, Java, Android"
 url: "https://www.stormstone.xin"              # your host, for absolute URL
@@ -67,8 +67,8 @@ ga_domain: www.stormstone.xin
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，玩玩耍耍 <br> I'm not okay,but it's okay! "
-sidebar-avatar: /img/avatar-storm.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "这个人就是懒 <br> 什么也不想说"
+sidebar-avatar: /img/avatar-garfield.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

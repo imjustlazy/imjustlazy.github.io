@@ -1,8 +1,6 @@
 # I'm just lazy
 
-##[View Live Blog → ](https://imjustlazy.github.io)	
-
-![](http://www.stormstone.xin/img/sifablog-home.jpg)
+##[View Live Blog → ](https://imjustlazy.github.io)
 
 ![](./background.jpg)
 
